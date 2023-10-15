@@ -40,7 +40,7 @@ CogniSort provides an easy-to-use API for incorporating content recommendations 
 
 ## Documentation
 
-For detailed information, please refer to the [documentation](https://arxiv.org/pdf/1803.11175.pdf).
+For detailed information, please refer to the [documentation](https://arxiv.org/pdf/1803.11175.pdf) and [documentation2](https://colab.research.google.com/drive/1i-D-Jn-eMPRMb9KW2fXbWF1vlTfuOpqa#scrollTo=6FjdeCqPJeg-).
 
 
 We would like to express our gratitude to the contributors, the open-source community, and the authors of the STS Benchmark for their invaluable work.
